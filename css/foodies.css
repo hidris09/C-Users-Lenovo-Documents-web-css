@@ -1,0 +1,48 @@
+    img {
+        width: 100%;
+        height: 85%;
+    }
+    #home-background {
+        
+        position:relative;
+z-index: 1;
+opacity: 0.5;
+
+    }
+    #top-section {
+        font-size: 50px;
+        font-weight: bolder;
+        margin-left: 10px; 
+        float: left; 
+        margin-top: -510px;
+        background-color: rgb(9, 255, 0); 
+    }
+    #Explore {
+font-size: 30px;   
+    }
+    
+    #order-Here {
+        font-size: 30px;
+        margin-left: 500px;
+        margin-top: -60px 
+    }
+    #About-Us {
+        font-size: 30px;
+        margin-left: 1000px;
+        margin-top: -60px
+    } 
+    #promo {
+      font-size: 80px;  
+      font-weight: bold;
+      margin-top: -500px;
+      margin-left: 60px;
+    }
+#c {
+    font-weight: bold;
+    font-size: 40px;
+  margin-top: 170px;  
+  margin-left: 500px;
+}
+
+
+ 
